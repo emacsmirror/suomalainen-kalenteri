@@ -47,9 +47,7 @@ Ohjelman lähdekoodi ja tämä esittelyteksti on ladattavissa osoitteesta
 Tekijä ja tekijänoikeus
 -----------------------
 
-Tekijä: Teemu Likonen <<tlikonen@iki.fi>>
-
-OpenPGP-avain: [6965F03973F0D4CA22B9410F0F2CAE0E07608462][PGP]
+Tekijä: Teemu Likonen <<tlikonen@iki.fi>> ([kotisivu][koti], [PGP][])
 
 Kalenterin sisällöllä eli merkkipäivien kalenteripaikoilla ei ole
 tekijänoikeutta. Kalenterin Emacs-toteutus ei sekään välttämättä ylitä
@@ -57,5 +55,6 @@ teoskynnystä, mutta vaikka se ylittäisi, tekijä luopuu kaikista
 tekijänoikeuksistaan pysyvästi ja enimmäislaajuudessaan.
 Luopumisjulistus on [Creative Commons CC0][CC0] -lisenssin mukainen.
 
-[PGP]: http://www.iki.fi/tlikonen/pgp-key.asc
-[CC0]: https://creativecommons.org/publicdomain/zero/1.0/legalcode.fi
+[koti]: http://www.iki.fi/tlikonen/
+[PGP]:  http://www.iki.fi/tlikonen/teemu.pgp
+[CC0]:  https://creativecommons.org/publicdomain/zero/1.0/legalcode.fi
